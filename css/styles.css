@@ -41,10 +41,10 @@ p{
   margin-right: 8px;
 }
 .title-img{
-  width: 60%;
-  transform: rotate(25deg);
+  width: 75%;
+  transform: rotate(-25deg);
   position: absolute;
-  right: 30%;
+  
 }
 /*Features Section*/
 #features{
