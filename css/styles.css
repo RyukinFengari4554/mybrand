@@ -86,16 +86,7 @@ p{
 }
 .carousel-item{
 }
-/*Press Section*/
-#press{
-  background-color: #ef8172;
-  text-align: center;
-  padding: 3%;
-}
-.press-logo{
-  width: 15%;
-  margin: 20px 20px 50px;
-}
+
 /*Pricing Section*/
 #pricing{
   text-align: center;
