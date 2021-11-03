@@ -8,8 +8,10 @@ p{
 }
 /*Title Section*/
 #title{
-  background-color: #ff4c68;
+  background-image: url('https://www.trendingroot.com/wp-content/uploads/2018/11/Sydney-Fireworks-Wallpaper-HD.jpg');
+  
   padding: 3% 15% 5%;
+
 }
 .brand-title{
   font-family: 'Ubuntu', sans-serif;
@@ -32,7 +34,7 @@ p{
   font-weight: 900;
   font-size: 3.5rem;
   line-height: 1.5;
-  color: white;
+  color: #8C0000;
 }
 .btn-download{
   margin: 5% 3% 5% 0;
@@ -41,13 +43,12 @@ p{
   margin-right: 8px;
 }
 .title-img{
-  width: 75%;
+  width: 100%;
   transform: rotate(-25deg);
   position: absolute;
-
+  bottom: 10%;
 }
 .choices{
-
   text-align: center;
   color: white;
 }
@@ -60,11 +61,11 @@ p{
   z-index: 1;
 }
 .fa-icon{
-  color: #ef8172;
+  color: #BD2000;
   margin: 1rem;
 }
 .fa-icon:hover{
-  color:#ff4c68;
+  color:#FA1E0E;
 }
 .feature-title{
   font-size: 1.5rem;
@@ -106,7 +107,7 @@ p{
 }
 /*CTA Section*/
 #cta{
-  background-color: #ff4c68;
+  background-color: #FA1E0E;
   padding: 7% 14%;
   text-align: center;
 }
