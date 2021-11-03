@@ -86,7 +86,7 @@ p{
   font-weight: 700;
   font-size: 3rem;
   line-height: 1.5;
-  padding: 15% 15% 0 0;
+  padding: 15% 0 15% 0;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 .testimonial-t{
@@ -142,6 +142,12 @@ p{
   .btn-download{
     margin-right: 6px;
   }
+  .testimonial-text{
+    font-size: 2.5rem;
+  }
+  .price-head,.price-text{
+    font-size: 2.5rem;
+  }
 }
 @media (max-width: 768px){
   .title-img{
@@ -158,4 +164,14 @@ p{
     position: relative;
     left: 50px;
   }
+  #pricing{
+    padding: 0;
+  }
+  .price-head,.price-text,.testimonial-text{
+    font-size: 2rem;
+  }
+  .cta-title,.testimonial-t{
+    font-size: 1.5rem;
+  }
+  
 }
