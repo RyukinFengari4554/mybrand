@@ -1,5 +1,5 @@
 body{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
 
 }
@@ -14,12 +14,12 @@ p{
 
 }
 .brand-title{
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 2.5rem;
 }
 .links{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 300;
   font-size: 1.20rem;
 }
@@ -30,7 +30,7 @@ p{
   padding: 0 0 4.5rem;
 }
 .title-quote{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 900;
   font-size: 3.5rem;
   line-height: 1.5;
@@ -173,5 +173,5 @@ p{
   .cta-title,.testimonial-t{
     font-size: 1.5rem;
   }
-  
+
 }
